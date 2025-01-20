@@ -25,7 +25,7 @@ Key components include:
 - **Tools**: Hugging Face, Langchain, Embedding Models
 
 ## **Summary**
-- Built an **end-to-end Medical Chatbot** using Python and state-of-the-art tools.
+- Developed an **end-to-end Medical Chatbot** using Python and state-of-the-art tools.
 - Integrated **LLMs** for intelligent and natural language processing.
 - Utilized **Hugging Face** and **Langchain** for advanced NLP capabilities.
 - Implemented **Pinecone Vector Database** for efficient embedding storage and retrieval.
