@@ -1,4 +1,4 @@
-# End-to-End-Medical-Chatbot
+# End-to-End Medical Chatbot with NLP, LLMs, and Pinecone Integration
 
 ## **Problem**
 Access to timely and accurate medical information can be challenging for many people. Traditional methods of addressing medical inquiries are often time-consuming and may lack personalization or efficiency.
