@@ -24,7 +24,7 @@ Key components include:
 - **Database**: Pinecone Vector Database
 - **Tools**: Hugging Face, Langchain, Embedding Models
 
-## **Summary in Bullets**
+## **Summary**
 - Built an **end-to-end Medical Chatbot** using Python and state-of-the-art tools.
 - Integrated **LLMs** for intelligent and natural language processing.
 - Utilized **Hugging Face** and **Langchain** for advanced NLP capabilities.
