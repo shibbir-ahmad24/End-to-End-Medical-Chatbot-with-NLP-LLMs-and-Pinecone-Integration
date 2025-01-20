@@ -32,6 +32,23 @@ Key components include:
 - Designed a responsive web app with **Flask**, **HTML**, and **CSS**.
 - Learned and applied concepts like embedding models, vector databases, and chatbot frameworks.
 
+## **Steps to Run the Project**
+
+Follow these steps to set up and run the Medical Chatbot project:
+
+1. **Create a Conda Environment:**
+   ```
+   conda create -n mchatbot python=3.8 -y
+   ```
+2. **Activate the Environment:**
+   ```
+    activate mchatbot
+   ```
+3. Install Required Dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+   
 ## **Code Snippet**
 
 ### **Text Chunking Function**
