@@ -38,7 +38,7 @@ Follow these steps to set up and run the Medical Chatbot project:
 
 1. **Create a Conda Environment:**
    ```
-   conda create -n mchatbot python=3.8 -y
+   conda create -n mchatbot python=3.11 -y
    ```
 2. **Activate the Environment:**
    ```
