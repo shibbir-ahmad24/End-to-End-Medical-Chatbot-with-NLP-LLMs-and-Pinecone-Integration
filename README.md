@@ -33,7 +33,20 @@ Key components include:
 - Learned and applied concepts like embedding models, vector databases, and chatbot frameworks.
 
 ## **Code Snippet**
-### **Step: Download Embedding Model**
+
+### **Text Chunking Function**
+This function splits the extracted text data into manageable chunks for better processing and analysis.
+
+```python
+### **Create text chunks**
+def text_split(extracted_data):
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=20)
+    text_chunks = text_splitter.split_documents(extracted_data)
+
+    return text_chunks
+```
+
+### **Download Embedding Model**
 ```python
 def download_hugging_face_embeddings():
     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
